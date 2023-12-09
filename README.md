@@ -5,8 +5,8 @@
 #### Summarize/introduce how your artifacts fit together and inform the portfolio as a whole; this will help demonstrate the full range of your computer science talents and abilities? This section should introduce your audience to the technical artifacts that will follow the professional self-assessment.
 ## Code Review 
 I have uploaded the code review to YouTube. It can be found [here](https://youtu.be/pyJeV-ACWbA)
-##
-
+## Software Engineering
+[Contact.py] (Software Engineering/Contact.py)
 ##
 
 ##
